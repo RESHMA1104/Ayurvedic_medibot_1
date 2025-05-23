@@ -1,0 +1,404 @@
+{
+  "medicines": [
+    {
+      "medicine": "Chyawanprash",
+      "indications": "Boosts immunity, improves digestion, rejuvenates the body, treats cough and cold",
+      "dose": "1-2 teaspoons twice daily with milk or water",
+      "ingredients": ["Amla (Emblica officinalis)", "Guduchi (Tinospora cordifolia)", "Ashwagandha (Withania somnifera)", "Honey", "Ghee", "40+ herbs"],
+      "precautions": "Avoid in diabetes due to sugar content. Not recommended for Kapha body types in excess.",
+      "side_effects": "May cause weight gain or acidity if overconsumed."
+    },
+    {
+      "medicine": "Triphala Churna",
+      "indications": "Improves digestion, detoxifies the body, relieves constipation, supports eye health",
+      "dose": "3-5 grams at bedtime with warm water",
+      "ingredients": ["Haritaki (Terminalia chebula)", "Bibhitaki (Terminalia bellirica)", "Amla (Emblica officinalis)"],
+      "precautions": "Reduce dose if diarrhea occurs. Avoid during pregnancy.",
+      "side_effects": "Mild abdominal cramps in sensitive individuals."
+    },
+    {
+      "medicine": "Ashwagandha Churna",
+      "indications": "Reduces stress, boosts energy, improves strength and stamina, enhances sleep",
+      "dose": "3-6 grams daily with milk or water",
+      "ingredients": ["Ashwagandha root (Withania somnifera)"],
+      "precautions": "Avoid in hyperthyroidism. May interact with sedatives.",
+      "side_effects": "Drowsiness or mild stomach upset in high doses."
+    },
+    {
+      "medicine": "Brahmi Vati",
+      "indications": "Enhances memory and brain function, reduces anxiety, supports nervous system",
+      "dose": "1-2 tablets twice daily with water",
+      "ingredients": ["Brahmi (Bacopa monnieri)", "Shankhpushpi (Convolvulus pluricaulis)", "Vacha (Acorus calamus)"],
+      "precautions": "Not recommended for children under 12.",
+      "side_effects": "Nausea if taken on empty stomach."
+    },
+    {
+      "medicine": "Yashtimadhu (Mulethi) Churna",
+      "indications": "Soothes throat irritation, treats acidity, improves voice quality, heals ulcers",
+      "dose": "1-3 grams with honey or water",
+      "ingredients": ["Licorice root (Glycyrrhiza glabra)"],
+      "precautions": "Contraindicated in hypertension and kidney disease.",
+      "side_effects": "May cause edema or potassium imbalance with prolonged use."
+    },
+    {
+      "medicine": "Giloy Satva",
+      "indications": "Boosts immunity, reduces fever, detoxifies blood, helps in diabetes management",
+      "dose": "250-500 mg twice daily with water",
+      "ingredients": ["Giloy stem extract (Tinospora cordifolia)"],
+      "precautions": "Monitor blood sugar levels in diabetics.",
+      "side_effects": "Rare; may cause mild diarrhea."
+    },
+    {
+      "medicine": "Dashmoolarishta",
+      "indications": "Relieves joint pain, improves strength, supports postpartum recovery",
+      "dose": "15-30 ml diluted with equal water, twice daily",
+      "ingredients": ["Bilva (Aegle marmelos)", "Gambhari (Gmelina arborea)", "Shyonaka (Oroxylum indicum)", "Patala (Stereospermum suaveolens)"],
+      "precautions": "Contains natural alcohol. Avoid during pregnancy.",
+      "side_effects": "Dizziness if consumed in excess."
+    },
+    {
+      "medicine": "Punarnava Mandoor",
+      "indications": "Reduces swelling, supports kidney function, treats anemia, detoxifies blood",
+      "dose": "1-2 tablets twice daily with water",
+      "ingredients": ["Punarnava (Boerhavia diffusa)", "Mandoor Bhasma (Iron oxide)", "Triphala"],
+      "precautions": "Take with food to avoid gastric irritation.",
+      "side_effects": "Constipation or black stools due to iron content."
+    },
+    {
+      "medicine": "Shankhpushpi Syrup",
+      "indications": "Improves memory and concentration, calms the mind, treats insomnia",
+      "dose": "10 ml twice daily with water",
+      "ingredients": ["Shankhpushpi (Convolvulus pluricaulis)", "Brahmi (Bacopa monnieri)", "Jatamansi (Nardostachys jatamansi)"],
+      "precautions": "Avoid with other sedatives.",
+      "side_effects": "None reported at therapeutic doses."
+    },
+    {
+      "medicine": "Lauha Bhasma",
+      "indications": "Treats anemia, improves hemoglobin levels, strengthens bones",
+      "dose": "125-250 mg with honey or ghee, twice daily",
+      "ingredients": ["Purified iron ash"],
+      "precautions": "Overdose may lead to iron toxicity.",
+      "side_effects": "Constipation or nausea in some users."
+    },
+    {
+      "medicine": "Kumari Asava",
+      "indications": "Improves digestion, treats liver disorders, enhances skin health",
+      "dose": "15-20 ml with equal water, twice daily after meals",
+      "ingredients": ["Aloe vera (Kumari)", "Haritaki (Terminalia chebula)", "Amla (Emblica officinalis)"],
+      "precautions": "Avoid during menstruation or pregnancy.",
+      "side_effects": "Loose stools in excess consumption."
+    },
+    {
+      "medicine": "Arjunarishta",
+      "indications": "Supports heart health, strengthens cardiac muscles, improves circulation",
+      "dose": "20 ml diluted with water, twice daily after meals",
+      "ingredients": ["Arjuna bark (Terminalia arjuna)", "Dhataki (Woodfordia fruticosa)", "Jaggery"],
+      "precautions": "Contains natural alcohol. Consult if on cardiac medications.",
+      "side_effects": "Mild acidity in some cases."
+    },
+    {
+      "medicine": "Mahasudarshan Churna",
+      "indications": "Reduces fever, detoxifies the body, treats infections, boosts immunity",
+      "dose": "3-5 grams with honey or warm water, twice daily",
+      "ingredients": ["Neem (Azadirachta indica)", "Giloy (Tinospora cordifolia)", "Kutki (Picrorhiza kurroa)"],
+      "precautions": "Not recommended for children under 5 years.",
+      "side_effects": "Bitter taste may cause nausea."
+    },
+    {
+      "medicine": "Gokshuradi Guggulu",
+      "indications": "Supports urinary health, treats kidney stones, reduces prostate issues",
+      "dose": "2 tablets twice daily with warm water",
+      "ingredients": ["Gokshura (Tribulus terrestris)", "Guggulu (Commiphora mukul)", "Punarnava (Boerhavia diffusa)"],
+      "precautions": "Increase water intake during use.",
+      "side_effects": "Mild diuretic effect."
+    },
+    {
+      "medicine": "Arogyavardhini Vati",
+      "indications": "Liver detoxification, treats skin diseases, improves metabolism",
+      "dose": "1-2 tablets twice daily with warm water",
+      "ingredients": ["Kutki (Picrorhiza kurroa)", "Chitrak (Plumbago zeylanica)", "Purified mercury and sulfur compounds"],
+      "precautions": "Only use under Ayurvedic supervision. Avoid in pregnancy.",
+      "side_effects": "May cause mild purgation initially."
+    },
+    {
+      "medicine": "Sitopaladi Churna",
+      "indications": "Treats respiratory issues, relieves cough and cold, reduces phlegm",
+      "dose": "3-6 grams with honey, twice daily",
+      "ingredients": ["Vanshlochan (Bambusa bambos)", "Pippali (Piper longum)", "Cardamom", "Cinnamon", "Sugar"],
+      "precautions": "Avoid in diabetes (contains sugar). Not for dry cough.",
+      "side_effects": "Mild throat irritation in some cases."
+    },
+    {
+      "medicine": "Kaishore Guggulu",
+      "indications": "Reduces inflammation, treats arthritis, detoxifies blood, heals wounds",
+      "dose": "2 tablets twice daily with warm water",
+      "ingredients": ["Guduchi (Tinospora cordifolia)", "Guggulu (Commiphora mukul)", "Amalaki (Emblica officinalis)"],
+      "precautions": "May interact with blood thinners. Avoid during pregnancy.",
+      "side_effects": "Mild diarrhea initially."
+    },
+    {
+      "medicine": "Chandraprabha Vati",
+      "indications": "Supports urinary tract health, treats diabetes, improves vitality",
+      "dose": "1-2 tablets twice daily with water",
+      "ingredients": ["Guggulu (Commiphora mukul)", "Shilajit (Asphaltum)", "Vacha (Acorus calamus)"],
+      "precautions": "Drink plenty of water. Avoid in acute kidney infection.",
+      "side_effects": "Dark urine (normal effect)."
+    },
+    {
+      "medicine": "Triphala Guggulu",
+      "indications": "Treats joint pain, reduces cholesterol, detoxifies the body",
+      "dose": "2 tablets twice daily with warm water",
+      "ingredients": ["Triphala (Haritaki, Bibhitaki, Amalaki)", "Guggulu (Commiphora mukul)"],
+      "precautions": "Not recommended for Vata-dominant individuals in excess.",
+      "side_effects": "Mild laxative effect."
+    },
+    {
+      "medicine": "Amalaki Rasayana",
+      "indications": "Rich in Vitamin C, boosts immunity, improves digestion, anti-aging",
+      "dose": "5-10 grams daily with milk or water",
+      "ingredients": ["Amla (Emblica officinalis)", "Honey", "Ghee"],
+      "precautions": "Reduce dose if acidity occurs.",
+      "side_effects": "Rare; may cause loose stools."
+    },
+    {
+      "medicine": "Khadirarishta",
+      "indications": "Purifies blood, treats skin disorders, supports oral health",
+      "dose": "15-20 ml with equal water, twice daily after meals",
+      "ingredients": ["Khair (Acacia catechu)", "Haritaki (Terminalia chebula)", "Jaggery"],
+      "precautions": "Contains natural alcohol. Avoid in bleeding disorders.",
+      "side_effects": "Mild constipation."
+    },
+    {
+      "medicine": "Drakshasava",
+      "indications": "Improves digestion, boosts energy, treats anemia, revitalizes the body",
+      "dose": "20 ml with equal water, twice daily after meals",
+      "ingredients": ["Raisins (Vitis vinifera)", "Haritaki (Terminalia chebula)", "Cardamom"],
+      "precautions": "Diabetics should monitor sugar levels.",
+      "side_effects": "None at recommended doses."
+    },
+    {
+      "medicine": "Kutajarishta",
+      "indications": "Treats diarrhea, improves gut health, supports digestion",
+      "dose": "15-20 ml with equal water, twice daily after meals",
+      "ingredients": ["Kutaja (Holarrhena antidysenterica)", "Musta (Cyperus rotundus)", "Jaggery"],
+      "precautions": "Stop once diarrhea resolves.",
+      "side_effects": "May cause dryness in mouth."
+    },
+    {
+      "medicine": "Pippalyasava",
+      "indications": "Enhances digestion, treats abdominal pain, boosts metabolism",
+      "dose": "20 ml with equal water, twice daily after meals",
+      "ingredients": ["Pippali (Piper longum)", "Ginger", "Honey"],
+      "precautions": "Avoid in hyperacidity conditions.",
+      "side_effects": "Mild burning sensation in stomach."
+    },
+    {
+      "medicine": "Sarivadyasava",
+      "indications": "Purifies blood, treats skin diseases, supports liver function",
+      "dose": "15-20 ml with equal water, twice daily after meals",
+      "ingredients": ["Sariva (Hemidesmus indicus)", "Manjistha (Rubia cordifolia)", "Lodhra (Symplocos racemosa)"],
+      "precautions": "Avoid during menstruation.",
+      "side_effects": "None reported."
+    },
+    {
+      "medicine": "Vasavaleha",
+      "indications": "Relieves cough and asthma, improves respiratory health",
+      "dose": "5-10 grams with honey, twice daily",
+      "ingredients": ["Vasa (Adhatoda vasica)", "Pippali (Piper longum)", "Honey"],
+      "precautions": "Not for dry cough without phlegm.",
+      "side_effects": "Bitter taste may cause nausea."
+    },
+    {
+      "medicine": "Lashunadi Vati",
+      "indications": "Supports heart health, reduces cholesterol, improves digestion",
+      "dose": "1-2 tablets twice daily with warm water",
+      "ingredients": ["Garlic (Allium sativum)", "Ginger", "Black pepper"],
+      "precautions": "May interact with blood pressure medications.",
+      "side_effects": "Garlic odor, mild heartburn."
+    },
+    {
+      "medicine": "Mandukaparni Churna",
+      "indications": "Enhances brain function, reduces stress, improves memory",
+      "dose": "3-5 grams with milk, twice daily",
+      "ingredients": ["Mandukaparni (Centella asiatica)", "Ashwagandha (Withania somnifera)"],
+      "precautions": "Avoid with sedative drugs.",
+      "side_effects": "Drowsiness in high doses."
+    },
+    {
+      "medicine": "Swarna Bhasma",
+      "indications": "Boosts immunity, rejuvenates the body, treats chronic fatigue",
+      "dose": "30-60 mg with honey/ghee, once daily",
+      "ingredients": ["Purified gold ash"],
+      "precautions": "Only use under Ayurvedic supervision.",
+      "side_effects": "None at therapeutic doses."
+    },
+    {
+      "medicine": "Vacha Churna",
+      "indications": "Improves speech and memory, supports nervous system function",
+      "dose": "1-3 grams with honey, twice daily",
+      "ingredients": ["Vacha (Acorus calamus)"],
+      "precautions": "Not for long-term use. Avoid in epilepsy.",
+      "side_effects": "Nausea in empty stomach."
+    },
+    {
+      "medicine": "Chyawanprash",
+      "indications": "Immunity boosting, Respiratory problems, General debility",
+      "dose": "1-2 teaspoons daily (adults), 1/2 to 1 teaspoon daily (children)",
+      "ingredients": ["Amla", "Ghee", "Honey", "Ashwagandha", "Pippali"],
+      "precautions": "Avoid in diabetic patients without medical advice",
+      "side_effects": "Mild digestive issues in some individuals"
+    },
+    {
+      "medicine": "Nilavembu Kudineer",
+      "indications": "Fever, Dengue, Malaria, Viral infections",
+      "dose": "30-60ml twice daily after food (adults), 10-30ml twice daily after food (children)",
+      "ingredients": ["Nilavembu", "Vetiver", "Peypudal", "Chukku", "Vilamichu ver"],
+      "precautions": "Consult a doctor if fever persists",
+      "side_effects": "No major side effects reported"
+    },
+    {
+      "medicine": "Shatavari",
+      "indications": "Hormonal imbalance, Fertility issues, Menopause symptoms",
+      "dose": "1-2 grams of powder or 500mg extract twice daily",
+      "ingredients": ["Shatavari root"],
+      "precautions": "Avoid in individuals with estrogen-sensitive conditions",
+      "side_effects": "Mild digestive upset in rare cases"
+    },
+    {
+      "medicine": "Arjunarishta",
+      "indications": "Heart health, Hypertension, Angina",
+      "dose": "15-30ml twice daily with water",
+      "ingredients": ["Arjuna bark", "Gokshura", "Honey", "Dhataki flowers"],
+      "precautions": "Consult a doctor if taking heart medications",
+      "side_effects": "Mild stomach irritation in rare cases"
+    },
+    {
+      "medicine": "Guggulu",
+      "indications": "Joint pain, Arthritis, Obesity",
+      "dose": "2 tablets twice daily after food",
+      "ingredients": ["Guggulu resin", "Triphala", "Pippali", "Ginger"],
+      "precautions": "Avoid in pregnant women without medical advice",
+      "side_effects": "Mild digestive upset"
+    },
+    {
+      "medicine": "Mahayograj Guggulu",
+      "indications": "Joint disorders, Arthritis, Muscle pain",
+      "dose": "1-2 tablets twice daily",
+      "ingredients": ["Guggulu", "Trikatu", "Triphala", "Ashwagandha"],
+      "precautions": "Consult a doctor for long-term use",
+      "side_effects": "Mild gastrointestinal issues"
+    },
+    {
+      "medicine": "Brahmi",
+      "indications": "Memory loss, Anxiety, Insomnia",
+      "dose": "1-2 grams of powder or 300-500mg extract daily",
+      "ingredients": ["Brahmi herb"],
+      "precautions": "Avoid in pregnancy",
+      "side_effects": "No major side effects reported"
+    },
+    {
+      "medicine": "Khadiradi Vati",
+      "indications": "Sore throat, Oral ulcers, Cough",
+      "dose": "1 tablet to be dissolved in the mouth, 3 times a day",
+      "ingredients": ["Khadi", "Pepper", "Camphor", "Cinnamon"],
+      "precautions": "Avoid in children under 5 years of age",
+      "side_effects": "No major side effects reported"
+    },
+    {
+      "medicine": "Kanchnar Guggulu",
+      "indications": "Thyroid disorders, Lymphatic swelling, Goiter",
+      "dose": "1-2 tablets twice daily",
+      "ingredients": ["Kanchanar bark", "Guggulu", "Triphala", "Pippali"],
+      "precautions": "Consult a doctor for thyroid conditions",
+      "side_effects": "Mild digestive discomfort"
+    },
+    {
+      "medicine": "Trikatu Churna",
+      "indications": "Indigestion, Obesity, Respiratory issues",
+      "dose": "1-2 grams daily after meals",
+      "ingredients": ["Ginger", "Black pepper", "Pippali"],
+      "precautions": "Avoid in ulcers or gastritis",
+      "side_effects": "May cause burning sensation in some individuals"
+    },
+    {
+      "medicine": "Lavan Bhaskar Churna",
+      "indications": "Digestive disorders, Acid reflux, Bloating",
+      "dose": "1-2 grams twice daily with water",
+      "ingredients": ["Black salt", "Ginger", "Pippali", "Cumin"],
+      "precautions": "Avoid in hypertensive patients",
+      "side_effects": "Mild digestive discomfort"
+    },
+    {
+      "medicine": "Moringa Capsules",
+      "indications": "Nutritional deficiency, Weakness, Low energy",
+      "dose": "1 capsule twice daily",
+      "ingredients": ["Moringa leaf extract"],
+      "precautions": "Consult a doctor if pregnant",
+      "side_effects": "Mild digestive issues in rare cases"
+    },
+    {
+      "medicine": "Ashokarishta",
+      "indications": "Menstrual disorders, Menorrhagia, Dysmenorrhea",
+      "dose": "15-30ml twice daily with water",
+      "ingredients": ["Ashoka bark", "Dhataki", "Mustak", "Jeera"],
+      "precautions": "Consult a doctor if taking hormonal medications",
+      "side_effects": "No major side effects reported"
+    },
+    {
+      "medicine": "Punarnavasava",
+      "indications": "Edema, Liver disorders, Kidney health",
+      "dose": "15-30ml twice daily after food",
+      "ingredients": ["Punarnava", "Triphala", "Danti", "Musta"],
+      "precautions": "Avoid in pregnancy without medical advice",
+      "side_effects": "Mild digestive issues in rare cases"
+    },
+    {
+      "medicine": "Talisadi Churna",
+      "indications": "Cough, Cold, Asthma",
+      "dose": "1-2 grams with honey twice daily",
+      "ingredients": ["Talisapatra", "Ginger", "Pippali", "Cardamom"],
+      "precautions": "Consult a doctor for persistent cough",
+      "side_effects": "No major side effects reported"
+    },
+    {
+      "medicine": "Saraswatarishta",
+      "indications": "Memory enhancement, Anxiety, Mental fatigue",
+      "dose": "15-30ml twice daily with water",
+      "ingredients": ["Brahmi", "Ashwagandha", "Shankhapushpi", "Ghee"],
+      "precautions": "Consult a doctor if on psychotropic medications",
+      "side_effects": "No major side effects reported"
+    },
+    {
+      "medicine": "Panchatikta Ghrita",
+      "indications": "Skin diseases, Eczema, Psoriasis",
+      "dose": "1-2 teaspoons twice daily with warm water",
+      "ingredients": ["Neem", "Patola", "Vasa", "Guggulu", "Ghee"],
+      "precautions": "Consult a doctor if skin condition worsens",
+      "side_effects": "Mild digestive upset in some individuals"
+    },
+    {
+      "medicine": "Shirashooladi Vajra Ras",
+      "indications": "Migraine, Sinus headache, Tension headache",
+      "dose": "125-250 mg twice daily with honey or water",
+      "ingredients": ["Parada (Purified Mercury)", "Gandhaka (Purified Sulfur)", "Loha Bhasma (Iron Ash)", "Vacha (Acorus calamus)"],
+      "precautions": "Avoid in pregnancy. Consult an Ayurvedic doctor for long-term use.",
+      "side_effects": "Rare (may cause metallic taste)"
+    },
+    {
+      "medicine": "Anu Taila",
+      "indications": "Sinus headache, Migraine, Stress-related headache",
+      "dose": "2-3 drops in each nostril (Nasya therapy)",
+      "ingredients": ["Sesame oil", "Bala (Sida cordifolia)", "Licorice", "Brahmi (Bacopa monnieri)"],
+      "precautions": "Do not use during acute sinus infection. Warm oil slightly before use.",
+      "side_effects": "Mild nasal irritation in rare cases"
+    },
+    {
+      "medicine": "Brahmi Ghrita",
+      "indications": "Stress headache, Tension headache, Migraine",
+      "dose": "1-2 teaspoons twice daily with warm milk",
+      "ingredients": ["Brahmi (Bacopa monnieri)", "Cow ghee", "Vacha (Acorus calamus)", "Shankhapushpi (Convolvulus pluricaulis)"],
+      "precautions": "Avoid in obesity or high cholesterol.",
+      "side_effects": "None in recommended doses"
+    }
+  ]
+}

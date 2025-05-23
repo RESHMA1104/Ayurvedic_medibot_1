@@ -1,0 +1,109 @@
+{
+    "poses": [
+        {
+            "indication": "Calm the mind",
+            "pose_name": "Tadasana",
+            "sanskrit_name": "Tadasana",
+            "purpose": "Improves posture, promotes balance and clarity",
+            "description": "A grounding standing pose that helps calm the nervous system and align the body.",
+            "image_url": "Tadasana.jpg"
+          },
+          {
+            "indication": "Relieve stress",
+            "pose_name": "Balasana",
+            "sanskrit_name": "Balasana",
+            "purpose": "Relaxes the back and shoulders",
+            "description": "Child pose soothes the brain and reduces fatigue and anxiety.",
+            "image_url":"Balasana.png"
+          },
+          {
+            "indication": "Improve digestion",
+            "pose_name": "Ardha Matsyendrasana",
+            "sanskrit_name": "Ardha Matsyendrasana",
+            "purpose": "Stimulates abdominal organs and improves metabolism",
+            "description": "A seated twist that detoxifies and supports the digestive system.",
+            "image_url":"Ardha Matsyendrasana.jpeg"
+          },
+          {
+            "indication": "Reduce lower back pain",
+            "pose_name": "Trikonasana",
+            "sanskrit_name": "Trikonasana",
+            "purpose": "Stretches spine and strengthens core",
+            "description": "Triangle pose relieves tension in the lower back and improves flexibility.",
+            "image_url":"Trikonasana.jpeg"
+          },
+          {
+            "indication": "Boost focus and concentration",
+            "pose_name": "Vrikshasana",
+            "sanskrit_name": "Vrikshasana",
+            "purpose": "Improves balance and strengthens legs",
+            "description": "Tree pose helps center the mind and improve mental clarity.",
+            "image_url":"Vrikshasana.jpeg"
+          },
+          {
+            "indication": "Enhance lung capacity",
+            "pose_name": "Bhujangasana",
+            "sanskrit_name": "Bhujangasana",
+            "purpose": "Expands chest and opens lungs",
+            "description": "Cobra pose improves breathing, boosts energy, and reduces fatigue.",
+            "image_url":"Bhujangasana.jpeg"
+          },
+          {
+            "indication": "Stimulate metabolism",
+            "pose_name": "Utkatasana",
+            "sanskrit_name": "Utkatasana",
+            "purpose": "Energizes body and improves circulation",
+            "description": "Chair pose builds heat, improves digestion, and stimulates metabolism.",
+            "image_url":"Utkatasana.jpeg"
+          },
+          {
+            "indication": "Stretch hamstrings and calm the nervous system",
+            "pose_name": "Paschimottanasana",
+            "sanskrit_name": "Paschimottanasana",
+            "purpose": "Stretches spine and hamstrings while calming the mind",
+            "description": "Seated forward bend that improves digestion and soothes anxiety.",
+            "image_url":"Paschimottanasana.jpeg"
+          },
+          {
+            "indication": "Reduce fatigue and relieve mild depression",
+            "pose_name": "Uttanasana",
+            "sanskrit_name": "Uttanasana",
+            "purpose": "Releases tension in the spine and neck",
+            "description": "A standing forward bend that boosts circulation and relieves stress.",
+            "image_url":"Uttanasana.jpeg"
+          },
+          {
+            "indication": "Stimulate liver and kidneys",
+            "pose_name": "Janu Sirsasana",
+            "sanskrit_name": "Janu Sirsasana",
+            "purpose": "Stimulates abdominal organs and stretches spine and hamstrings",
+            "description": "Head-to-knee pose helps with digestion and menstrual discomfort.",
+            "image_url":"Janu Sirsasana.jpeg"
+          },
+          {
+            "indication": "Open chest and relieve back tension",
+            "pose_name": "Ustrasana",
+            "sanskrit_name": "Ustrasana",
+            "purpose": "Improves posture and stretches the entire front of the body",
+            "description": "Camel pose increases spinal flexibility and boosts energy.",
+            "image_url":"D:/Yoga/IMAGES/Ustrasana.jpeg"
+          },
+          {
+            "indication": "Strengthen back and relieve anxiety",
+            "pose_name": "Setu Bandhasana",
+            "sanskrit_name": "Setu Bandhasana",
+            "purpose": "Opens the heart and strengthens back muscles",
+            "description": "Bridge pose is great for relaxing the brain and calming the body.",
+            "image_url":"Ustrasana.jpeg"
+          },
+          {
+            "indication": "Boost energy and improve flexibility",
+            "pose_name": "Dhanurasana",
+            "sanskrit_name": "Dhanurasana",
+            "purpose": "Stretches front of the body and strengthens the back",
+            "description": "Bow pose stimulates organs and improves posture.",
+            "image_url":"Dhanurasana.jpeg"
+          }
+    ]
+  }
+
