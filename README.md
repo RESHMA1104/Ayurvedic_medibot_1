@@ -1,23 +1,27 @@
-#Ayurvedic Medibot
-##Ayurvedic Medibot is an intelligent healthcare assistant that leverages the power of Ayurveda and Yoga to provide users with natural remedies and wellness routines. This AI-powered bot helps users identify Ayurvedic medicines based on symptoms like cold, cough, or fever, and also includes a Yoga Medibot that recommends yoga poses along with their benefits.
+# Ayurvedic Medibot 🧘‍♀️🌿
 
-✨ Features
-#🌿 Ayurvedic Medicine Bot
-##
-Accepts symptoms as input (e.g., cold, cough, fever).
-Predicts and recommends Ayurvedic medicines based on a curated dataset.
-Offers natural and holistic remedies rooted in traditional practices.
+Ayurvedic Medibot is an AI-powered health assistant that provides **Ayurvedic medicine recommendations** for common ailments like cold, cough, and fever, along with **yoga pose suggestions** based on user needs. It combines traditional Indian medicine and yoga with modern technology for a holistic health experience.
 
-#🧘 Yoga Medibot
-##
-Suggests yoga poses relevant to specific health conditions or daily wellness.
-Explains the benefits of each yoga pose.
-Encourages healthy living with ancient yoga wisdom.
+---
 
-#🛠️ Tech Stack
-##
-Python
-Machine Learning (for medicine prediction)
-Pandas / NumPy (for dataset handling)
-Streamlit
-Custom Dataset (Ayurvedic medicines and yoga poses)
+## Features
+
+### 🌿 Ayurvedic Medicine Bot
+- Takes symptoms as input (e.g., cold, cough, fever).
+- Predicts and recommends Ayurvedic medicines using a trained model and dataset.
+- Encourages natural healing through ancient remedies.
+
+### 🧘 Yoga Medibot
+- Recommends yoga poses suited for specific issues or general wellness.
+- Provides information on the **benefits** of each pose.
+- Acts as a virtual yoga guide.
+
+---
+
+## Tech Stack
+
+- Python
+- Pandas, NumPy (data handling)
+- Scikit-learn or any ML library (for prediction)
+- Streamlit (if using a web interface)
+- Custom datasets (CSV format)
